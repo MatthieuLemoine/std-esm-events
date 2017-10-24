@@ -1,7 +1,7 @@
 {
   "name": "std-esm-events",
   "version": "1.0.0",
-  "description": "A failing example of the EventEmitter observer pattern using @std/esm",
+  "description": "A failing example of the EventEmitter observer pattern using @std/esm & cjs : true",
   "main": "main.js",
   "repository": "https://github.com/MatthieuLemoine/std-esm-events",
   "author": "MatthieuLemoine",
